@@ -1,0 +1,16 @@
+# Pipeline (src/)
+pandas>=2.2
+numpy
+scipy
+lightgbm
+catboost
+holidays
+optuna            # only for src/05_tune.py
+
+# Experiments only (experiments/)
+scikit-learn
+openpyxl          # reads incidenti.xlsx
+pyexcel           # reads the ACI .ods files
+pyexcel-ods3      # ODS plugin for pyexcel
+
+# Tested with Python 3.9, pandas 2.3, numpy 2.0, lightgbm 4.6, catboost 1.2

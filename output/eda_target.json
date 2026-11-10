@@ -1,0 +1,16 @@
+{
+  "n_osservazioni": 33522,
+  "pct_zeri": 64.48,
+  "media": 1.856,
+  "varianza": 34.783,
+  "indice_dispersione_var_su_media": 18.74,
+  "skewness": 7.43,
+  "kurtosis": 74.28,
+  "max": 119,
+  "quantili": {
+    "0.5": 0.0,
+    "0.9": 5.0,
+    "0.95": 9.0,
+    "0.99": 27.0
+  }
+}

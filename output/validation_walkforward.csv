@@ -1,0 +1,10 @@
+fold,loss,n_iter,rmsle,poisson_dev
+train<=2020->val2021,regression_logy,76,0.6298,3.3191
+train<=2020->val2021,poisson,215,0.6785,2.4079
+train<=2020->val2021,tweedie,103,0.6743,2.3848
+train<=2021->val2022,regression_logy,78,0.6283,3.05
+train<=2021->val2022,poisson,224,0.6933,2.3929
+train<=2021->val2022,tweedie,102,0.6865,2.3626
+train<=2022->val2023,regression_logy,368,0.7897,9.0128
+train<=2022->val2023,poisson,96,0.7195,5.1819
+train<=2022->val2023,tweedie,37,0.733,5.9262
